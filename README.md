@@ -10,7 +10,7 @@
 - [ ] Neptune
 - [ ] Comet Haley
 
-### Study Plan
+### Study Plan Jan - Aug, 2018
 
 - [ ] data_analyst 选2个最重要的做了 4天
 - [ ] sql nowcoder + leetcode 3天
