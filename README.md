@@ -3,7 +3,7 @@
 - [ ] data_analyst 选2个最重要的做了 4天
 - [ ] sql nowcoder + leetcode 3天
 
-- [ ] All about GIT 1天
+- [x] All about GIT 1天
 - [ ] 数据结构 两周/ 排序算法
 
 - [ ] 复习：css grid flex-box responsive 一天
